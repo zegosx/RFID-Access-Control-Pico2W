@@ -1,6 +1,6 @@
 # RFID Access Control System – Raspberry Pi Pico W
 
-![Hardware](hardware.jpg)
+![Hardware](hardware.png)
 
 ![Dashboard](dashboard.png)
 
