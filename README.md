@@ -1,5 +1,9 @@
 # RFID Access Control System – Raspberry Pi Pico W
 
+![Hardware](hardware.jpg)
+
+![Dashboard](dashboard.png)
+
 ## Overview
 
 This project is an RFID-based access control system developed using Raspberry Pi Pico W and MicroPython.
